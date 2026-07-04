@@ -49,3 +49,7 @@ Source: Wikimedia Commons. (General Arava scenery — not the khan itself.)
 - `ps/sdom-salt-layers.jpg` — Wilson44691 — **CC0** (public domain)
 
 Source: Wikimedia Commons.
+
+## אגם הצלילים, ראש העין (trip: אילן מאיר רייז)
+
+- `ps/agam-hatzlilim-1.jpg` — **used with the photographer's permission** (granted to the בשבילם memorial project). Original: Google Maps contributed photo. Attribution name: _TODO — confirm with owner_.
