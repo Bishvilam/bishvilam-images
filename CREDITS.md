@@ -32,3 +32,11 @@ Source: https://commons.wikimedia.org/ (Wikimedia Commons).
 - `ps/heftziba-gilboa-ridge.jpg` — אלמוג (he.wikipedia) — **Public domain**
 
 Source: Wikimedia Commons.
+
+## Arava valley scenery — נחל ערבה (trip: אורן ליאור / חאן נחל ערבה)
+
+- `ps/arava-peace-observatory.jpg` — אבישי טייכר — **CC BY 2.5**
+- `ps/arava-valley.jpg` — someone10x — **CC BY 2.0**
+- `ps/arava-hufira-lookout.jpg` — אבישי טייכר — **CC BY 2.5**
+
+Source: Wikimedia Commons. (General Arava scenery — not the khan itself.)
