@@ -23,3 +23,12 @@ Source: https://commons.wikimedia.org/wiki/Category:Israeli_Artillery_Corps_Memo
 
 License: **CC BY-SA 4.0** (https://creativecommons.org/licenses/by-sa/4.0/).
 Source: https://commons.wikimedia.org/ (Wikimedia Commons).
+
+## Heftziba Quarry Restoration trail — מחצבת חפציבה (trip: אדוארד קורול)
+
+- `ps/heftziba-quarry-1.jpg` — שאולה הייטנר — **CC BY 2.5**
+- `ps/heftziba-quarry-2.jpg` — שאולה הייטנר — **CC BY 2.5**
+- `ps/heftziba-mt-barkan.jpg` — Amir Yalon — **CC BY-SA 2.0**
+- `ps/heftziba-gilboa-ridge.jpg` — אלמוג (he.wikipedia) — **Public domain**
+
+Source: Wikimedia Commons.
