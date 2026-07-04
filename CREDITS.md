@@ -40,3 +40,12 @@ Source: Wikimedia Commons.
 - `ps/arava-hufira-lookout.jpg` — אבישי טייכר — **CC BY 2.5**
 
 Source: Wikimedia Commons. (General Arava scenery — not the khan itself.)
+
+## Mount Sodom / south Dead Sea — מצפור מלחת סדום (trip: אמיר פילוסוף)
+
+- `ps/sdom-outlook-1.jpg` — Hoshvilim — **CC BY-SA 4.0**
+- `ps/sdom-summit.jpg` — Mboesch — **CC BY-SA 4.0**
+- `ps/sdom-lookout.jpg` — GorALexeY — **CC BY-SA 4.0**
+- `ps/sdom-salt-layers.jpg` — Wilson44691 — **CC0** (public domain)
+
+Source: Wikimedia Commons.
